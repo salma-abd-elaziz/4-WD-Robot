@@ -1,2 +1,2 @@
 # 4-WD-Robot
-4 WD Robot, platform featuring four gear motors with 65 mm wheel,  moving with Wireless communication using  nRF24L01 in a team of 4, my roll was to map the signals received to movements 
+4 WD Robot, platform featuring four gear motors with 65 mm wheel,  moving with Wireless communication using  nRF24L01 in a team of 4, my roll was to map the signals received to movements, the nRF24L01 was sending a Joy stick movements (Joy stick shield was on Uno Arduino) to the nRF24L01 on the WD (WD shield was on Mega Arduino) 
